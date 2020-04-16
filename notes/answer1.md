@@ -22,6 +22,28 @@ b. 正则无法表示逆序
 
 c. 正则无法表示嵌套
 
+- 2.3
+
+a. 除了0110外的二进制数
+
+b. 符合a aaaaa aaaaaaaaaa....(a个数为等差数列)
+
+c. 1开头的二进制回文串，前后有n个0
+
+- 2.4
+  
+a. ![avatar](images/1.png)
+
+b. ![avatar](images/2.png)
+
+- 2.5
+
+a. ![avatar](images/3.png)
+
+b. ![avatar](images/4.png)
+
+c. ![avatar](images/5.png)
+
 - 2.6
   
 可以合并{1,5} {2,8} {4,6}
